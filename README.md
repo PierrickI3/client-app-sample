@@ -1,0 +1,1 @@
+Requires a client app in Genesys Cloud with the following URL: https://localhost/?langTag={{pcLangTag}}&environment={{pcEnvironment}}
